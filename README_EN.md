@@ -15,8 +15,8 @@ You will need:
 ## Project Files
 
 - `extract_inject_comments.py` - Script for extracting comments from Python files and later replacing them
-- `translate_from_to.py` - Script for translating comments between different languages (not just Russian to English despite the name)
-
+- `translate_from_to.py` - Script for translating comments between different languages
+  
 ## Step-by-Step Usage Guide
 
 ### Step 1: Extract Comments from a Python File
